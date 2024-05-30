@@ -1,0 +1,333 @@
+
+a.nav-link {
+   font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #54524f;
+}
+.left {
+    padding: 15px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    margin: 0px;
+}
+li.nav-item a {
+    padding: 0px 20px !important;
+}
+.search-bar form {
+    background: #c3bfbc;
+    display: flex;
+    padding: 11px;
+    flex-wrap: wrap;
+    border-radius: 50px;
+    align-items: center;
+}
+.search-bar form input {
+    border: none;
+    background-color: transparent;
+    width: 90px;
+}
+.search-bar i {
+     color: #68635f;
+    background-color: #c3bfbc;
+}
+section.red {
+    background-image: url(../images/treck.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 174px 0px;
+    background-position: center;
+}
+.time h3 {
+    color: #deb37e;
+    font-size: 58px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+}
+.time span {
+   font-size: 25px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.time h4 {
+    color: #776c64;
+    font-size: 24px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    padding: 50px 20px;
+}
+.time p{
+    color: #5e5c59;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.let {
+    padding: 0px 16%;
+}
+.let h2 {
+    text-align: center;
+    font-size: 62px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+     color: #deb37e;
+     padding: 20px 0px;
+}
+.let p {
+    font-size: 27px;
+    font-family:"Open Sans", sans-serif;
+    font-weight: 400;
+    color: #7f7770;
+     text-align: center;
+     padding-bottom: 41px;
+}
+section.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: row;
+}
+.card {
+    width: 382px;
+    height: 400px;
+    margin: 10px;
+}
+
+.photos img {
+    width: 100%;
+}
+.loreum img {
+    width: 100%;
+}
+.dolore img {
+    width: 100%;
+}
+.card-image{
+    background-color: red;
+    height: 150px;
+    margin-bottom: 15px;
+    background-size: cover;
+}
+.card-inner {
+    background-color: #7f7770;
+    padding: 40px 20px;
+    color: #ffff;
+}
+.card h2 {
+ padding: 10px;
+color: #ffff;
+font-family: "Open Sans", sans-serif;
+font-weight: 700;
+font-size: 26px;
+}
+.card p {
+color: #ffff;
+font-family: "Open Sans", sans-serif;
+font-weight: 400;
+font-size: 20px;
+}
+.ten {
+   text-align: center;
+   padding: 26px;
+}
+.ten button {
+    background-color: #7f7770;
+    border: none;
+    color: white;
+    padding: 11px 57px;
+    text-align: center;
+    font-size: 16px;
+   border-radius: 50px;
+     font-size: 16px;
+  font-family: "dejavu", sans-serif;
+}
+.section-3 {
+    background: #7f7770;
+}
+.box1 img {
+    width: 100%;
+}
+.box2 {
+    padding: 27px 26px;
+}
+ .box2 h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    color: #ffff;
+    padding: 10px;
+   }
+.box2 p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 27px;
+    color: #ffff;
+    font-weight: 600;
+}
+.box2 button {
+    border: none;
+    background: #e2a355;
+    border-radius: 50px;
+    padding: 10px 38px;
+    color: #ffff; 
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 6px;
+}
+.section-4 {
+    background: #deb37e;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    align-items: center;
+}
+.box3 {
+    padding: 27px 26px;
+}
+ .box3 h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    color: #ffff;
+    padding: 10px;
+   }
+.box3 p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 27px;
+    color: #ffff;
+    font-weight: 600;
+}
+.box3 button {
+    border: none;
+    background: #e2a355;
+    border-radius: 50px;
+    padding: 10px 38px;
+    color: #ffff; 
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 6px;
+}
+.box4 img {
+    width: 100%;
+}
+footer {
+    background: #7f7770;
+    padding: 255px 0px;
+    color: #ffff;
+    background-image: url(../images/shape.png);
+    background-repeat: no-repeat;
+}
+ footer h1 {
+    padding: 0px 26px;
+    font-size: 26px;
+}
+.footer-left h1 {
+    color: #ffff;
+    font-size: 31px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    padding: 0px;
+}
+.footer-left p{
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
+ul li a {
+    color: #ffff;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
+ul li {
+    list-style-type: none;
+}
+.social-media ul {
+    margin: 0;
+    padding: 0;
+}
+.social-media ul li {
+    display: inline;
+}
+.social-media i {
+    color: #7f7770;
+}
+.social-media i {
+    background: #ffff;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+@media(max-width:992px){
+    .time h3 {
+   font-size: 48px;
+    }
+    .time h4 {
+ font-size: 22px;
+   }
+    .let h2 {
+    font-size: 59px;
+   }
+   .let p {
+    font-size: 24px;
+}
+}
+
+
+@media(max-width:768px){
+    .time h3 {
+    font-size: 34px;
+}
+.let p {
+    font-size: 18px;
+}
+}
+
+@media(max-width:576px){
+    .time h3 {
+    font-size: 25px;
+}
+.time span {
+    font-size: 12px;
+}
+.let {
+    padding: 0px 1%;
+}
+.time h4 {
+    font-size: 18px;
+}
+.time p {
+    font-size: 16px;
+}
+ .box2 h2 {
+    font-size: 40px;
+}
+.box2 p{
+    font-size: 18px;
+}
+.box3 h2{
+    font-size: 40px;
+}
+.box3 p{
+    font-size: 18px;
+}
+.box2 button {
+    padding: 8px 25px;
+    font-size: 14px;
+    margin-top: 10px;
+   }
+   .box3 button {
+    padding: 8px 25px;
+    font-size: 14px;
+    margin-top: 10px;
+   }
